@@ -1,0 +1,67 @@
+{
+  "pgsoft": [
+    {
+      "name": "Mahjong Ways 2",
+      "pola": [
+        "10x auto turbo ON",
+        "30x auto turbo OFF",
+        "80x auto turbo ON",
+        "3x manual turbo OFF"
+      ],
+      "catatan": "Gunakan bet kecil-menengah. Ulangi pola saat scatter muncul dalam 30 spin.",
+      "hindari": "Room dengan 2 scatter langsung di awal spin",
+      "tips": "Naikkan bet setelah scatter ketiga muncul",
+      "rtp": "97.6%"
+    },
+    {
+      "name": "Wild Bounty Showdown",
+      "pola": [
+        "5x manual turbo OFF",
+        "50x auto turbo ON",
+        "30x auto turbo OFF"
+      ],
+      "catatan": "Sering memberikan scatter di tengah spin. Mulai dengan turbo ON.",
+      "hindari": "Room dengan pecahan liar tidak berurutan",
+      "tips": "Pantau pola pecahan awal, stabilkan di bawah 400 coin",
+      "rtp": "96.7%"
+    },
+    {
+      "name": "Mahjong Ways",
+      "pola": [
+        "20x auto turbo ON",
+        "30x auto turbo OFF",
+        "5x manual turbo ON"
+      ],
+      "catatan": "Pola klasik yang sering dipakai. Biasanya scatter muncul setelah pecahan emas.",
+      "hindari": "Room dengan huruf hijau mendominasi tanpa pecah",
+      "tips": "Jika wild dan scatter muncul bareng, lanjutkan pola sampai 100 spin",
+      "rtp": "96.92%"
+    }
+  ],
+  "pragmatic": [
+    {
+      "name": "Gates of Olympus",
+      "pola": [
+        "\u2713x\u2713 10x auto DC ON",
+        "\u2713x\u2713 20x auto DC OFF",
+        "XX\u2713 5x manual DC ON"
+      ],
+      "catatan": "Naikkan bet setelah muncul scatter atau petir 15x.",
+      "hindari": "Room dengan petir muncul tapi tidak kena",
+      "tips": "Gunakan 200\u2013400 bet awal",
+      "rtp": "96.5%"
+    },
+    {
+      "name": "Sugar Rush",
+      "pola": [
+        "\u2713x\u2713 10x auto DC ON",
+        "\u2713x\u2713 50x auto DC OFF"
+      ],
+      "catatan": "Pola zig-zag cocok. Banyak menang jika warna stack dari kiri.",
+      "hindari": "Room penuh warna hijau dan merah",
+      "tips": "Setelah scatter, naikkan bet 2x lalu ulang pola",
+      "rtp": "96.5%"
+    }
+  ],
+  "last_updated": "2025-06-12T06:16:36.923026"
+}

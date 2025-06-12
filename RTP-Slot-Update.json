@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Gates of Olympus",
+    "pola": [
+      "\u2713x\u2713 10x auto DC ON",
+      "\u2713x\u2713 20x auto DC OFF",
+      "XX\u2713 5x manual DC ON"
+    ],
+    "catatan": [
+      "Maxwin sering di awal",
+      "Tahan jika skater pertama gagal"
+    ],
+    "tips": [
+      "Naikkan bet pelan-pelan",
+      "Stop saat sudah profit"
+    ],
+    "hindari": [
+      "Jangan spam spin turbo",
+      "Jangan pakai quick"
+    ],
+    "rtp_rating": {
+      "value": 96.7,
+      "status": "High",
+      "last_updated": "2025-06-12T05:51:45.399591Z"
+    }
+  },
+  {
+    "name": "Mahjong Ways 2",
+    "pola": [
+      "\u2713\u2713\u2713 10x manual DC ON",
+      "X\u2713X 30x turbo DC OFF"
+    ],
+    "catatan": [
+      "Scatter sering muncul saat turbo"
+    ],
+    "tips": [
+      "Gunakan DC ON di awal",
+      "Hindari naik bet tiba-tiba"
+    ],
+    "hindari": [
+      "Auto 50x saat DC OFF"
+    ],
+    "rtp_rating": {
+      "value": 95.3,
+      "status": "High",
+      "last_updated": "2025-06-12T05:51:45.399601Z"
+    }
+  },
+  {
+    "name": "Starlight Princess",
+    "pola": [
+      "\u2713x\u2713 15x auto DC ON",
+      "\u2713\u2713\u2713 25x turbo DC OFF"
+    ],
+    "catatan": [
+      "Perhatikan warna petir"
+    ],
+    "tips": [
+      "DC ON saat petir biru sering muncul"
+    ],
+    "hindari": [
+      "Jangan main saat scatter susah"
+    ],
+    "rtp_rating": {
+      "value": 91.8,
+      "status": "Low",
+      "last_updated": "2025-06-12T05:51:45.399604Z"
+    }
+  }
+]
